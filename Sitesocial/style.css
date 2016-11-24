@@ -1,7 +1,28 @@
 .body{
   margin: 0;
 }
+banner, aside, article, .profilpicture{
+  border: 1px solid black;
+}
+
 banner{
   width: 100vw;
-  border: 1px solid black;
+}
+aside{
+flex: 1;
+}
+article{
+flex: 3;
+}
+.container{
+  display: flex;
+    height: 150%;
+}
+.profilpicture{
+  padding: 3%;
+  max-width: 50%;
+}
+.profilpictureimg{
+  max-width: 100%;
+
 }
