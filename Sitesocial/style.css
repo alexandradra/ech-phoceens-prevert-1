@@ -1,12 +1,13 @@
 .body{
   margin: 0;
 }
-banner, aside, article, .profilpicture{
+.banner, aside, article, .profilpicture{
   border: 1px solid black;
 }
 
-banner{
-  width: 100vw;
+.banner{
+  left: 20%;
+  max-width: 100%;
 }
 aside{
 flex: 1;
