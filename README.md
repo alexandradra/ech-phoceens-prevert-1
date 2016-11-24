@@ -1,6 +1,6 @@
 #Cycle 1 - Echanges phocéens/SimplonMars Collège Prévet
 
-Projet de médiation numérique entre 4 élèves de SimplonMars et 16 élèves de 4ème du collège Prévert à Marseilles.
+Projet de médiation numérique entre 4 élèves de SimplonMars et 16 élèves de 4ème du collège Prévert à Marseille.
 
 ##Séance 1 - 01/12/2016 : 
 ###Métiers du web : 
