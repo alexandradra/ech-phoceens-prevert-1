@@ -1,16 +1,7 @@
 .body{
   margin: 0;
 }
-.banner{
-  display: inline-block;
-  position: fixed;
+banner{
+  width: 100vw;
   border: 1px solid black;
-}
-.flexcontainer{
-
-  display: flex
-}
-
-.colonne1{
-
 }
