@@ -1,4 +1,4 @@
-.body{
+body{
   margin: 0;
 }
 .banner, aside, article, .profilpicture{
@@ -6,8 +6,15 @@
 }
 
 .banner{
-  left: 20%;
+  position: fixed;
+  background-image: url(pacman.jpg);
+  background-size: contain;
+  width: 100%;
+  height: 100px;
   max-width: 100%;
+}
+.clearfix{
+  height: 100px;
 }
 aside{
 flex: 1;
@@ -17,7 +24,6 @@ flex: 3;
 }
 .container{
   display: flex;
-    height: 150%;
 }
 .profilpicture{
   padding: 3%;
