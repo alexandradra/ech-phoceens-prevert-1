@@ -1,28 +1,30 @@
 .banner, aside, article, .profilpicture, .profilpictureimg  {
     border: 1px solid black;
-    /*ajouter une bordure à l'objet, ici la première valeur est la taille ( 1px), la seconde valeur est le type de bordure ici (solid) = bordure continue, vous pouvez choisir "solid" ou "dashed" (des tirets), il en existe d'autres: dotted | dashed | double | groove, la dernière est la couleur de la bordure ici black donc noir vous pouvez la changer : voir la liste de propriétés CSS */
+    /*ajouter une bordure à l'objet, ici la première valeur est la taille ( 1px)
+    La seconde valeur est le type de bordure ici (solid) = bordure continue, vous pouvez choisir "solid" ou "dashed" (des tirets), il en existe d'autres: dotted | dashed | double | groove
+    La dernière est la couleur de la bordure ici black donc noir vous pouvez la changer : voir la liste de propriétés CSS */
 }
 .banner{
-  background-image: url();
+  background-image: url(nomdelimage.jpg);
   /*ici vous pouvez mettre une image*/
   background-color: ;
   /*ici vous pouvez mettre une couleur*/
 }
-.profilpictureimg {
-    background-image: url();
+.photo_profil {
+    background-image: url(nomdelimage.jpg);
     /*ici vous pouvez mettre une image*/
     background-size: cover;
     background-repeat: no-repeat;
 }
 
-aside {
+aside { /*Concerne le bloc de gauche*/
     background-image: url();
     /*ici vous pouvez mettre une image*/
     background-color: ;
     /*ici vous pouvez mettre une couleur*/
 }
 
-article {
+article { /*Concerne le bloc de droite*/
     background-image: url();
     /*ici vous pouvez mettre une image*/
     background-color: ;/*ici vous pouvez mettre une couleur*/
