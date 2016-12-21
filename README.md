@@ -2,6 +2,8 @@
 
 Projet de médiation numérique entre 4 élèves de SimplonMars et 16 élèves de 4ème du collège Prévert à Marseille.
 
+Pour plus de détails sur le déroulé des séances, [RDV sur le Wiki](https://github.com/simplonmars3/ateliers-mediation/wiki/Groupe-2-Cycle-1).
+
 ##Séance 1 - 01/12/2016 : 
 ###Métiers du web : 
 À partir du métier de “développeur”, parler des possibilités qu’il peut y avoir: webdesigner, programmeur (“vulgariser” un peu le métier pour le simplifier et donner envie sans trop les perdre dans les détails) :
